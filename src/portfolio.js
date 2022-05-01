@@ -1,13 +1,13 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  title: 'King.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Kingsley Memeh',
+  role: 'Full-Stack Engineer',
   description:
     'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
   resume: 'https://example.com',
@@ -21,25 +21,25 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Magnus',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'Magnus is an functional video streaming platform, focused on overall product design and user-interactivity ',
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com/kingmemeh/magnus-client',
+    livePreview: 'https://github.com',
+  },
+  {
+    name: 'Bartender',
+    description:
+      'Bartender provides users with cocktail recipes.',
     stack: ['SASS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 2',
+    name: 'BandSite',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'SPA for a band.',
     stack: ['SASS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
@@ -52,20 +52,25 @@ const skills = [
   'HTML',
   'CSS',
   'JavaScript',
-  'TypeScript',
+  'Node.js',
   'React',
   'Redux',
+  'SQL',
+  'MongoDB',
   'SASS',
-  'Material UI',
+  'Express',
   'Git',
   'CI/CD',
+  'Rest API',
+  'DOM',
+  'OAuth',
   'Jest',
-  'Enzyme',
+  'Agile',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'kingsleymemeh@icloud.com',
 }
 
 export { header, about, projects, skills, contact }
