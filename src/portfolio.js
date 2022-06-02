@@ -9,11 +9,13 @@ const about = {
   name: 'Kingsley Memeh',
   role: 'Full-Stack Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+
+    'Who is Kingsley? Excellent question. Kingsley isn&apos;t just another developer. Kingsley isn&apos;t just about software and development. Kingsley… Kingsley is about people. Kingsley is all about innovative development that makes a difference, transforming the world as we know it. Making the world a better place, through interactive and aesthectially pleasing applications. I firmly believe we can only achieve greatness if first we achieve goodness.\n  - Gavin Belson, CEO, Hooli',
+
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://linkedin.com/in/kingsley-memeh',
+    github: 'https://github.com/kingmemeh',
   },
 }
 
