@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
+  homepage: 'kingsleymemeh.ca',
   title: 'King.',
 }
 
@@ -10,9 +10,9 @@ const about = {
   role: 'Full-Stack Engineer',
   description:
 
-    'Who is Kingsley? Excellent question. Kingsley isn&apos;t just another developer. Kingsley isn&apos;t just about software and development. Kingsley… Kingsley is about people. Kingsley is all about innovative development that makes a difference, transforming the world as we know it. Making the world a better place, through interactive and aesthectially pleasing applications. I firmly believe we can only achieve greatness if first we achieve goodness.\n  - Gavin Belson, CEO, Hooli',
+    'Who is Kingsley? Excellent question. Kingsley isn&apos;t just another developer. Kingsley isn&apos;t just about software and development. Kingsley… Kingsley is about people and experiences. Kingsley is all about innovative development that makes a difference, transforming the world as we know it. Making the world a better place, through interactive and aesthectially pleasing applications. I firmly believe we can only achieve greatness if first we achieve goodness.\n  - Gavin Belson, CEO, Hooli',
 
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/file/d/1dMsr1QGEWBndeBbFA4ZU7cWAzovh9Jac/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com/in/kingsley-memeh',
     github: 'https://github.com/kingmemeh',
@@ -26,7 +26,7 @@ const projects = [
     name: 'Magnus',
     description:
       'Magnus is an functional video streaming platform, focused on overall product design and user-interactivity ',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['React', 'JavaScript', 'MongoDB', 'REST API'],
     sourceCode: 'https://github.com/kingmemeh/magnus-client',
     livePreview: 'https://github.com',
   },
@@ -34,7 +34,7 @@ const projects = [
     name: 'Bartender',
     description:
       'Bartender provides users with cocktail recipes.',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['React', 'JavaScript', 'REST API'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
@@ -42,7 +42,7 @@ const projects = [
     name: 'BandSite',
     description:
       'SPA for a band.',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['Javascript', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
