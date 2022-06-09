@@ -34,9 +34,9 @@ const projects = [
     name: 'Bartender',
     description:
       'Bartender provides users with cocktail recipes.',
-    stack: ['React', 'JavaScript', 'REST API'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    stack: ['React', 'JavaScript', 'CocktailDB API', 'Material UI'],
+    sourceCode: 'https://github.com/kingmemeh/bartender',
+    livePreview: 'https://bartendr.netlify.app/',
   },
   {
     name: 'BandSite',
