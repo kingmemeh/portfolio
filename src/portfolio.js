@@ -28,7 +28,7 @@ const projects = [
       'Magnus is an functional video streaming platform, focused on overall product design and user-interactivity ',
     stack: ['React', 'JavaScript', 'MongoDB', 'REST API'],
     sourceCode: 'https://github.com/kingmemeh/magnus-client',
-    livePreview: 'https://github.com',
+    livePreview: 'https://magnusvideo.netlify.app',
   },
   {
     name: 'Bartender',
@@ -42,7 +42,7 @@ const projects = [
     name: 'BandSite',
     description:
       'SPA for a band.',
-    stack: ['Javascript', 'TypeScript', 'React'],
+    stack: ['Javascript', 'HTML', 'CSS', 'REST API'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
