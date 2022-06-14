@@ -10,7 +10,7 @@ const about = {
   role: 'Full-Stack Engineer',
   description:
 
-    'Who is Kingsley? Excellent question. Kingsley isn&apos;t just another developer. Kingsley isn&apos;t just about software and development. Kingsley… Kingsley is about people and experiences. Kingsley is all about innovative development that makes a difference, transforming the world as we know it. Making the world a better place, through interactive and aesthectially pleasing applications. I firmly believe we can only achieve greatness if first we achieve goodness.\n  - Gavin Belson, CEO, Hooli',
+    "Who is Kingsley? Excellent question. Kingsley isn't just another developer.Kingsley isn't just about software and development.Kingsley… Kingsley is about people and experiences.Kingsley is all about innovative development that makes a difference, transforming the world as we know it.Making the world a better place, through interactive and aesthectially pleasing applications.He firmly believe we can only achieve greatness if first we achieve goodness.\n - Gavin Belson, CEO, Hooli",
 
   resume: 'https://drive.google.com/file/d/1dMsr1QGEWBndeBbFA4ZU7cWAzovh9Jac/view?usp=sharing',
   social: {
