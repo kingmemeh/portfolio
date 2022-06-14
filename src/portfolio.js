@@ -42,7 +42,7 @@ const projects = [
     name: 'BandSite',
     description:
       'SPA for a band.',
-    stack: ['Javascript', 'TypeScript', 'React'],
+    stack: ['Javascript', 'HTML', 'CSS', 'REST API'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
